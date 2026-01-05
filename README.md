@@ -28,7 +28,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekboadgurjar/Analog-Clock.git
+    git clone https://github.com/abhishekgurjarin/Analog-Clock.git
     ```
 
 2. **Open the project directory**:
@@ -48,7 +48,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Analog Clock [here](https://abhishekboadgurjar.github.io/Analog-Clock/).
+You can check out the live demo of the Analog Clock [here](https://abhishekgurjarin.github.io/Analog-Clock/).
 
 ## Screenshots
 ![Screenshot 2024-08-14 084045](https://github.com/user-attachments/assets/ed380d18-00cd-4d51-a7d4-110c48213688)
@@ -64,5 +64,5 @@ This project was inspired by the classic design of analog clocks and the need fo
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekboadgurjar)
+  - [GitHub Profile](https://github.com/abhishekgurjarin)
 
